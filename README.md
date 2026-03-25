@@ -24,9 +24,10 @@ A little something about me <img src="https://media.giphy.com/media/VgCDAzcKvsR6
             <td><strong>Programming Languages 🧑🏽‍💻</strong></td>
             <td>
                 <img title="Python" height="40" src="https://www.cdnlogo.com/logos/p/3/python.svg">
+                <img title="Node" height="40" src="https://cdn.cdnlogo.com/logos/n/79/node-js.svg">
                 <img title="JavaScript" height="40" src="https://www.cdnlogo.com/logos/j/44/javascript.svg">
                 <img title="Php" height="40" src="https://cdn.cdnlogo.com/logos/p/44/php.svg">
-                <img title="Node" height="40" src="https://cdn.cdnlogo.com/logos/n/79/node-js.svg">
+                <img title="Go" height="40" src="https://static.cdnlogo.com/logos/g/35/golang.svg">">
             </td>
         </tr>
         <tr>
@@ -34,8 +35,8 @@ A little something about me <img src="https://media.giphy.com/media/VgCDAzcKvsR6
             <td>
                 <img title="Nestjs" height="40" src="https://cdn.cdnlogo.com/logos/n/57/nestjs.svg">
                 <img title="Django" height="40" src="https://www.cdnlogo.com/logos/d/3/django.svg">
-                <img title="Flask" height="40" src="https://cdn.cdnlogo.com/logos/f/50/flask.svg">
                 <img title="Laravel" height="40" src="https://cdn.cdnlogo.com/logos/l/23/laravel.svg">
+                <img title="Flask" height="40" src="https://cdn.cdnlogo.com/logos/f/50/flask.svg">
                 <img title="React" height="40" src="https://cdn.cdnlogo.com/logos/r/85/react.svg">
                 <img title="Angular" height="40" src="https://cdn.cdnlogo.com/logos/a/51/angular.svg">
             </td>
@@ -44,6 +45,7 @@ A little something about me <img src="https://media.giphy.com/media/VgCDAzcKvsR6
             <td><strong>Databases </strong></td>
             <td>
                 <img title="MongoDB" height="40" src="https://cdn.cdnlogo.com/logos/m/30/mongodb-icon.svg">
+                <img title="PostgreSQL" height="40" src="https://www.cdnlogo.com/logos/p/93/postgresql.svg">
                 <img title="MySQL" height="40" src="https://www.cdnlogo.com/logos/p/25/powered-by-mysql.svg">
             </td>
         </tr>
